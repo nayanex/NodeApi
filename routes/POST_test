@@ -1,0 +1,14 @@
+$ curl --data "timeLabel=2007-12-30 00:30:00&macAddress=2C-3F-45-02-1B-32&xCord=3&yCord=2" \
+http://localhost::3000/api/timePosition
+
+
+completed{"uid":1,"email":null,"first_name":"hello","last_name":null,"@version":"1","@timestamp":"2015-07-29T21:03:18.958Z"}
+
+somefunc("United States",Point(85.327892, 27.703744))
+
+to_timestamp('20/8/2013 14:52:49', 'DD/MM/YYYY hh24:mi:ss')
+
+
+  //to_timestamp('2007-12-30 00:30:00','YYYY-MM-DD HH24:MI:SS')::timestamp without time zone;
+
+
